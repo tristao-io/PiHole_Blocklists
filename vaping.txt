@@ -1,3 +1,17 @@
+# ===============================================
+# Pi-hole Blocklist – vaping
+#
+# Source repository:
+# https://github.com/tristao-io/PiHole_Blocklists
+#
+# Created by: Tristão
+# LinkedIn: https://www.linkedin.com/in/tristao-io/
+#
+# Total domains: 109
+# Last update: 2025-12-20 22:42 UTC
+# ===============================================
+
+
 advertise.vaping360.com
 amp.westcoastvapesupply.com
 api.buysellvape.com

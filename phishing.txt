@@ -1,3 +1,17 @@
+# ===============================================
+# Pi-hole Blocklist – phishing
+#
+# Source repository:
+# https://github.com/tristao-io/PiHole_Blocklists
+#
+# Created by: Tristão
+# LinkedIn: https://www.linkedin.com/in/tristao-io/
+#
+# Total domains: 190218
+# Last update: 2025-12-20 22:42 UTC
+# ===============================================
+
+
 000000-0.000webhostapp.com
 00004563.000webhostapp.com
 0001interac.com

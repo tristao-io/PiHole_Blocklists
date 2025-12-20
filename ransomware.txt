@@ -1,3 +1,17 @@
+# ===============================================
+# Pi-hole Blocklist – ransomware
+#
+# Source repository:
+# https://github.com/tristao-io/PiHole_Blocklists
+#
+# Created by: Tristão
+# LinkedIn: https://www.linkedin.com/in/tristao-io/
+#
+# Total domains: 1905
+# Last update: 2025-12-20 22:42 UTC
+# ===============================================
+
+
 25z5g623wpqpdwis.onion.to
 27c73bq66y4xqoh7.dorfact.at
 27lelchgcvs2wpm7.3lhjyx.top

@@ -1,3 +1,17 @@
+# ===============================================
+# Pi-hole Blocklist – ads
+#
+# Source repository:
+# https://github.com/tristao-io/PiHole_Blocklists
+#
+# Created by: Tristão
+# LinkedIn: https://www.linkedin.com/in/tristao-io/
+#
+# Total domains: 154545
+# Last update: 2025-12-20 22:42 UTC
+# ===============================================
+
+
 0001.2waky.com
 0001-cab8-4c8c-43de.reporo.net
 000lex4.wcomhost.com

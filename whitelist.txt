@@ -1,3 +1,17 @@
+# ===============================================
+# Pi-hole Blocklist – whitelist
+#
+# Source repository:
+# https://github.com/tristao-io/PiHole_Blocklists
+#
+# Created by: Tristão
+# LinkedIn: https://www.linkedin.com/in/tristao-io/
+#
+# Total domains: 192
+# Last update: 2025-12-20 22:42 UTC
+# ===============================================
+
+
 0.client-channel.google.com
 1drv.com
 2.android.pool.ntp.org

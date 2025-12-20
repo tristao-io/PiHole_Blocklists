@@ -1,3 +1,17 @@
+# ===============================================
+# Pi-hole Blocklist – drugs
+#
+# Source repository:
+# https://github.com/tristao-io/PiHole_Blocklists
+#
+# Created by: Tristão
+# LinkedIn: https://www.linkedin.com/in/tristao-io/
+#
+# Total domains: 26028
+# Last update: 2025-12-20 22:42 UTC
+# ===============================================
+
+
 000host.totaocimall.com
 001kanpou.com
 028lang.com

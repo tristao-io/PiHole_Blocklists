@@ -1,3 +1,17 @@
+# ===============================================
+# Pi-hole Blocklist – piracy
+#
+# Source repository:
+# https://github.com/tristao-io/PiHole_Blocklists
+#
+# Created by: Tristão
+# LinkedIn: https://www.linkedin.com/in/tristao-io/
+#
+# Total domains: 2154
+# Last update: 2025-12-20 22:42 UTC
+# ===============================================
+
+
 0daycn.net
 100-postal2.blogspot.com
 1337x.to

@@ -1,3 +1,17 @@
+# ===============================================
+# Pi-hole Blocklist – redirect
+#
+# Source repository:
+# https://github.com/tristao-io/PiHole_Blocklists
+#
+# Created by: Tristão
+# LinkedIn: https://www.linkedin.com/in/tristao-io/
+#
+# Total domains: 108685
+# Last update: 2025-12-20 22:42 UTC
+# ===============================================
+
+
 0.0000000000000000000000.com
 000000000000000.info
 0-0-0-0-0-0-0-0-0.20megsfree.com

@@ -1,3 +1,17 @@
+# ===============================================
+# Pi-hole Blocklist – scam
+#
+# Source repository:
+# https://github.com/tristao-io/PiHole_Blocklists
+#
+# Created by: Tristão
+# LinkedIn: https://www.linkedin.com/in/tristao-io/
+#
+# Total domains: 1273
+# Last update: 2025-12-20 22:42 UTC
+# ===============================================
+
+
 10tradeoption.com
 123tradeoption.com
 1n.yarrid.com
