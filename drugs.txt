@@ -4,12 +4,14 @@
 # Source repository:
 # https://github.com/tristao-io/PiHole_Blocklists
 #
-# Created by: Tristão
+# Tristao
 # LinkedIn: https://www.linkedin.com/in/tristao-io/
 #
-# Total domains: 26028
-# Last update: 2025-12-20 22:42 UTC
+# Total domains: 26030
+# Last update: 2025-12-20 22:53 UTC
 # ===============================================
+
+
 
 
 000host.totaocimall.com

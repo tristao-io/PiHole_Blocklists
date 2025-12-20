@@ -4,12 +4,14 @@
 # Source repository:
 # https://github.com/tristao-io/PiHole_Blocklists
 #
-# Created by: Tristão
+# Tristao
 # LinkedIn: https://www.linkedin.com/in/tristao-io/
 #
-# Total domains: 154545
-# Last update: 2025-12-20 22:42 UTC
+# Total domains: 154547
+# Last update: 2025-12-20 22:53 UTC
 # ===============================================
+
+
 
 
 0001.2waky.com
