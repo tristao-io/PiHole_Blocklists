@@ -7,8 +7,8 @@
 # Created by Tristao
 # LinkedIn: https://www.linkedin.com/in/tristao-io/
 #
-# Domains in this file: 2484
-# Last update: 2025-12-21 00:01 UTC
+# Domains in this file: 2486
+# Last update: 2025-12-21 00:31 UTC
 # ===============================================
 
 0.client-channel.google.com
@@ -1573,6 +1573,7 @@ p.imgur.com
 pings.conviva.com
 pinimg.com
 pinterest.com
+Pinterest.com
 pinterest.co.uk
 pinterest.de
 pinterest.fr
@@ -2000,6 +2001,7 @@ tawk.to
 tcf.admeen.org
 t.co
 tdn.da-services.ch
+teambeachbody.com
 teams.microsoft.com
 teamviewer.com
 techguy.org
