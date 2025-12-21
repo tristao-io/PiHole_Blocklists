@@ -8,7 +8,6 @@
 # LinkedIn: https://www.linkedin.com/in/tristao-io/
 #
 # Domains in this file: 2486
-# Last update: 2025-12-21 00:46 UTC
 # ===============================================
 
 0.client-channel.google.com
