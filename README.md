@@ -1,8 +1,4 @@
 
-## 📊 Statistics
-
-| File | Domains |
-|------|---------|
 | abuse_001.txt | 2500000 |
 | abuse_002.txt | 2500000 |
 | abuse_003.txt | 2500000 |
@@ -19,6 +15,41 @@
 **Total whitelisted domains:** 2486  
 
 _Last update: 2025-12-21 11:09 UTC_
+
+---
+
+
+### ✅ Whitelist
+
+Copy **only the URLs below** and add them as whitelist sources:
+
+```
+https://raw.githubusercontent.com/tristao-io/PiHole_Blocklists/main/whitelist_001.txt
+
+```
+
+---
+
+## 📊 Statistics
+
+| File | Domains |
+|------|---------|
+| abuse_001.txt | 2500000 |
+| abuse_002.txt | 2500000 |
+| abuse_003.txt | 2500000 |
+| abuse_004.txt | 2500000 |
+| abuse_005.txt | 2500000 |
+| abuse_006.txt | 895522 |
+| ads_001.txt | 2301722 |
+| malware_001.txt | 1230292 |
+| porn_001.txt | 622843 |
+| whitelist_001.txt | 2486 |
+
+
+**Total blocked domains:** 17550379  
+**Total whitelisted domains:** 2486  
+
+_Last update: 2025-12-21 11:22 UTC_
 
 ---
 
