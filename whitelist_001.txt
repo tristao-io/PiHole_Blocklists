@@ -7,7 +7,7 @@
 # Created by Tristao
 # LinkedIn: https://www.linkedin.com/in/tristao-io/
 #
-# Domains in this file: 200076
+# Domains in this file: 200074
 # ===============================================
 
 000714.xyz
@@ -9101,7 +9101,6 @@ api-content-photos.dropbox.com
 api.cortana.ai
 api.coursehero.com
 api.crackle.com
-api.cricbu360.cn
 api.cricbuzz.com
 api.crowdin.com
 api.crunchyroll.com
@@ -200069,7 +200068,6 @@ zzang.kr
 zzb.bz
 zzcartoon.com
 zzcloud.me
-zz.com
 zz.cqcounter.com
 zz.ee
 zzgc.edu.cn
