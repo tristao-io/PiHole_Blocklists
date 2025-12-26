@@ -254,10 +254,6 @@ https://raw.githubusercontent.com/tristao-io/PiHole_Blocklists/main/whitelist_00
 
 ---
 
-## 📊 Statistics
-
-| File | Domains |
-|------|---------|
 | blocklist_001.txt | 2500000 |
 | blocklist_002.txt | 2500000 |
 | blocklist_003.txt | 2500000 |
@@ -278,6 +274,45 @@ https://raw.githubusercontent.com/tristao-io/PiHole_Blocklists/main/whitelist_00
 **Total whitelisted domains:** 200074  
 
 _Last update: 2025-12-25 00:21 UTC_
+
+---
+
+
+### ✅ Whitelist
+
+Copy **only the URLs below** and add them as whitelist sources:
+
+```
+https://raw.githubusercontent.com/tristao-io/PiHole_Blocklists/main/whitelist_001.txt
+
+```
+
+---
+
+## 📊 Statistics
+
+| File | Domains |
+|------|---------|
+| blocklist_001.txt | 2500000 |
+| blocklist_002.txt | 2500000 |
+| blocklist_003.txt | 2500000 |
+| blocklist_004.txt | 2500000 |
+| blocklist_005.txt | 2500000 |
+| blocklist_006.txt | 2500000 |
+| blocklist_007.txt | 2500000 |
+| blocklist_008.txt | 2500000 |
+| blocklist_009.txt | 2500000 |
+| blocklist_010.txt | 2500000 |
+| blocklist_011.txt | 2500000 |
+| blocklist_012.txt | 2500000 |
+| blocklist_013.txt | 1814456 |
+| whitelist_001.txt | 200074 |
+
+
+**Total blocked domains:** 31814456  
+**Total whitelisted domains:** 200074  
+
+_Last update: 2025-12-26 00:20 UTC_
 
 ---
 
